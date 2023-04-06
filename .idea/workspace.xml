@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45daa6fe-63e2-46cb-952c-25939aab67fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionModelScreenSizeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionResolutionMakeDescendingComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cscd212comparators/lab2/TelevisionScreenSizeComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cscd212-s23-lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cscd212-s23-lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cscd212classes/lab2/Television.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +37,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -50,7 +59,83 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TATelevisionScreenSizeComparatorTest$Compare.diffrentSizes">
+    <configuration name="TATelevisionModelScreenSizeComparatorTest$NullChecks" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2.TATelevisionModelScreenSizeComparatorTest" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionModelScreenSizeComparatorTest$NullChecks" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionModelScreenSizeComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionModelScreenSizeComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionResolutionMakeDescendingComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionResolutionMakeDescendingComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionScreenSizeComparatorTest$Compare.diffrentSizes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2.TATelevisionScreenSizeComparatorTest" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionScreenSizeComparatorTest$Compare" />
+      <option name="METHOD_NAME" value="diffrentSizes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TATelevisionScreenSizeComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cscd212-s23-lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cscd212tests.lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cscd212tests.lab2" />
+      <option name="MAIN_CLASS_NAME" value="cscd212tests.lab2.TATelevisionScreenSizeComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="cscd212-s23-lab2" />
       <method v="2">
@@ -64,6 +149,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TATelevisionScreenSizeComparatorTest$Compare.diffrentSizes" />
+        <item itemvalue="JUnit.TATelevisionScreenSizeComparatorTest" />
+        <item itemvalue="JUnit.TATelevisionResolutionMakeDescendingComparatorTest" />
+        <item itemvalue="JUnit.TATelevisionModelScreenSizeComparatorTest$NullChecks" />
+        <item itemvalue="JUnit.TATelevisionModelScreenSizeComparatorTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,11 +174,22 @@
       <workItem from="1680715064659" duration="163000" />
       <workItem from="1680715254150" duration="89000" />
       <workItem from="1680715429615" duration="183000" />
-      <workItem from="1680715637487" duration="7083000" />
+      <workItem from="1680715637487" duration="15800000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
